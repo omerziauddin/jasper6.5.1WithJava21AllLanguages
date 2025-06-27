@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fontFamilies>
+
+	<fontFamily name="DejaVu Sans">
+		<normal>net/sf/jasperreports/fonts/dejavu/DejaVuSans.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/DejaVuSans-Bold.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/DejaVuSans-Oblique.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSans-BoldOblique.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+		<!--
+		<locales>
+			<locale>en_US</locale>
+			<locale>de_DE</locale>
+		</locales>
+		-->
+	</fontFamily>
+
+	<fontFamily name="DejaVu Serif">
+		<normal>net/sf/jasperreports/fonts/dejavu/DejaVuSerif.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Bold.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-Italic.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSerif-BoldItalic.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Serif', 'Times New Roman', Times, serif</export>
+			<export key="net.sf.jasperreports.xhtml">'DejaVu Serif', 'Times New Roman', Times, serif</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="DejaVu Sans Mono">
+		<normal>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono.ttf</normal>
+		<bold>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono-Bold.ttf</bold>
+		<italic>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono-Oblique.ttf</italic>
+		<boldItalic>net/sf/jasperreports/fonts/dejavu/DejaVuSansMono-BoldOblique.ttf</boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>
+			<export key="net.sf.jasperreports.xhtml">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>
+		</exportFonts>
+	</fontFamily>
+
+	<!--
+		Mapping Java logical fonts, for the sake of HTML export only.
+	-->
+
+	<fontFamily name="SansSerif">
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+			<export key="net.sf.jasperreports.xhtml">'DejaVu Sans', Arial, Helvetica, sans-serif</export>
+		</exportFonts>
+	</fontFamily>
+	<fontFamily name="Serif">
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Serif', 'Times New Roman', Times, serif</export>
+			<export key="net.sf.jasperreports.xhtml">'DejaVu Serif', 'Times New Roman', Times, serif</export>
+		</exportFonts>
+	</fontFamily>
+	<fontFamily name="Monospaced">
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>
+			<export key="net.sf.jasperreports.xhtml">'DejaVu Sans Mono', 'Courier New', Courier, monospace</export>
+		</exportFonts>
+	</fontFamily>
+
+	<fontFamily name="mangal_hindi">
+		<normal>net/sf/jasperreports/fonts/hindi/MANGAL.TTF</normal>
+		<bold>net/sf/jasperreports/fonts/hindi/mangalb.ttf</bold>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'MANGAL', MANGAL, Helvetica, MANGAL</export>
+			<export key="net.sf.jasperreports.xhtml">'MANGAL', MANGAL, Helvetica, MANGAL</export>
+		</exportFonts>
+		<!--
+		<locales>
+			<locale>en_US</locale>
+			<locale>de_DE</locale>
+		</locales>
+		-->
+	</fontFamily>
+    <fontFamily name="MangalOmer">
+        <normal><![CDATA[fonts/hindi/MANGAL.TTF]]></normal>
+        <bold><![CDATA[fonts/hindi/mangalb.ttf]]></bold>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'MANGAL', MANGAL, Helvetica, MANGAL</export>
+            <export key="net.sf.jasperreports.xhtml">'MANGAL', MANGAL, Helvetica, MANGAL</export>
+        </exportFonts>
+
+    </fontFamily>
+
+		<fontFamily name="kruti_hindi">
+		<normal>net/sf/jasperreports/fonts/hindi/Kruti_Dev_Hindi.ttf</normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'MANGAL', MANGAL, Helvetica, MANGAL</export>
+			<export key="net.sf.jasperreports.xhtml">'MANGAL', MANGAL, Helvetica, MANGAL</export>
+		</exportFonts>
+
+	</fontFamily>
+
+	<fontFamily name="bangla">
+		<normal>net/sf/jasperreports/fonts/bangla/SolaimanLipi.ttf</normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">SolaimanLipi</export>
+			<export key="net.sf.jasperreports.xhtml">SolaimanLipi</export>
+		</exportFonts>
+		<!--
+		<locales>
+			<locale>en_US</locale>
+			<locale>de_DE</locale>
+		</locales>
+		-->
+	</fontFamily>
+
+	<fontFamily name="bangla">
+			<normal>net/sf/jasperreports/fonts/bangla/SHREE-BAN-0550EP.ttf</normal>
+			<pdfEncoding>Identity-H</pdfEncoding>
+			<pdfEmbedded>true</pdfEmbedded>
+			<exportFonts>
+				<export key="net.sf.jasperreports.html">SHREE-BAN-0550EP</export>
+				<export key="net.sf.jasperreports.xhtml">SHREE-BAN-0550EP</export>
+			</exportFonts>
+			<!--
+			<locales>
+				<locale>en_US</locale>
+				<locale>de_DE</locale>
+			</locales>
+			-->
+	</fontFamily>
+
+	<fontFamily name="oriya">
+		<normal>net/sf/jasperreports/fonts/oriya/AkrutiOriSarala-98.ttf</normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">AkrutiOriSarala-98</export>
+			<export key="net.sf.jasperreports.xhtml">AkrutiOriSarala-98</export>
+		</exportFonts>
+		<!--
+		<locales>
+			<locale>en_US</locale>
+			<locale>de_DE</locale>
+		</locales>
+		-->
+	</fontFamily>
+
+	<fontFamily name="punjabi">
+			<normal>net/sf/jasperreports/fonts/punjabi/Raavi.ttf</normal>
+			<pdfEncoding>Identity-H</pdfEncoding>
+			<pdfEmbedded>true</pdfEmbedded>
+			<exportFonts>
+				<export key="net.sf.jasperreports.html">Raavi</export>
+				<export key="net.sf.jasperreports.xhtml">Raavi</export>
+			</exportFonts>
+			<!--
+			<locales>
+				<locale>en_US</locale>
+				<locale>de_DE</locale>
+			</locales>
+			-->
+	</fontFamily>
+	<fontFamily name="punjabi">
+			<normal>net/sf/jasperreports/fonts/punjabi/GurmukhiLys 020 Wide.ttf</normal>
+			<pdfEncoding>Identity-H</pdfEncoding>
+			<pdfEmbedded>true</pdfEmbedded>
+			<exportFonts>
+				<export key="net.sf.jasperreports.html">GurmukhiLys 020 Wide</export>
+				<export key="net.sf.jasperreports.xhtml">GurmukhiLys 020 Wide</export>
+			</exportFonts>
+			<!--
+			<locales>
+				<locale>en_US</locale>
+				<locale>de_DE</locale>
+			</locales>
+			-->
+	</fontFamily>
+	<fontFamily name="gujarati">
+				<normal>net/sf/jasperreports/fonts/gujarati/Nirmala.ttf</normal>
+				<pdfEncoding>Identity-H</pdfEncoding>
+				<pdfEmbedded>true</pdfEmbedded>
+				<exportFonts>
+					<export key="net.sf.jasperreports.html">Nirmala UI</export>
+					<export key="net.sf.jasperreports.xhtml">Nirmala UI</export>
+				</exportFonts>
+				<!--
+				<locales>
+					<locale>en_US</locale>
+					<locale>de_DE</locale>
+				</locales>
+				-->
+	</fontFamily>
+
+        <fontFamily name="marathi">
+				<normal>net/sf/jasperreports/fonts/marathi/Kruti_Dev_010.ttf</normal>
+				<pdfEncoding>Identity-H</pdfEncoding>
+				<pdfEmbedded>true</pdfEmbedded>
+				<exportFonts>
+					<export key="net.sf.jasperreports.html">Kruti Dev 010</export>
+					<export key="net.sf.jasperreports.xhtml">Kruti Dev 010</export>
+				</exportFonts>
+				<!--
+				<locales>
+					<locale>en_US</locale>
+					<locale>de_DE</locale>
+				</locales>
+				-->
+	</fontFamily>
+
+</fontFamilies>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="Nirmala UI">
+		<normal><![CDATA[fonts/gujarati/Nirmala.ttf]]></normal>
+		<pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+
+
+
+	<fontFamily name="MangalSatin">
+		<normal><![CDATA[fonts/NirmalaUI/MANGAL.TTF]]></normal>
+		<bold><![CDATA[fonts/NirmalaUI/mangalb.ttf]]></bold>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+			<export key="net.sf.jasperreports.html">'MANGAL', MANGAL, Helvetica, MANGAL</export>
+			<export key="net.sf.jasperreports.xhtml">'MANGAL', MANGAL, Helvetica, MANGAL</export>
+		</exportFonts>
+
+	</fontFamily>
+
+
+
+	<fontFamily name="LohitGujaratiSatin">
+		<normal><![CDATA[fonts/gujarati/LohitGujarati.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+	<fontFamily name="RaviPunjabiSatin">
+		<normal><![CDATA[fonts/punjabi/Raavi.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<fontFamily name="SolaimanLipiSatin">
+		<normal><![CDATA[fonts/bangla/SolaimanLipi.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+	<fontFamily name="LohitAssameseSatin">
+		<normal><![CDATA[fonts/bangla/Lohit-Assamese.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+
+	SamyakOriya
+	<fontFamily name="KrutiDevSatin">
+		<normal><![CDATA[fonts/marathi/Kruti_Dev_010.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<fontFamily name="SamyakOriyaSatin">
+		<normal><![CDATA[fonts/oriya/SamyakOriya.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+<!--	not working for oriya-->
+	<fontFamily name="LohitOriyaSatin">
+		<normal><![CDATA[fonts/oriya/LohitOriya.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+	<!--	not working for oriya-->
+	<fontFamily name="KalingaOriyaSatin">
+		<normal><![CDATA[fonts/oriya/kalinga.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+	<!--	not working for oriya-->
+	<fontFamily name="NotoSansOriyaSatin">
+		<normal><![CDATA[fonts/oriya/NotoSansOriya.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+	<!--	not working for oriya-->
+	<fontFamily name="UtkalSatin">
+		<normal><![CDATA[fonts/oriya/utkal.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<!--	not working for oriya-->
+	<fontFamily name="NotoSerifOriyaSatin">
+		<normal><![CDATA[fonts/oriya/NotoSerifOriya.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<fontFamily name="AkrutiOriSaralaSatin">
+		<normal><![CDATA[fonts/oriya/AkrutiOriSarala-98.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<fontFamily name="BalooBhainaOriyaSatin">
+		<normal><![CDATA[fonts/oriya/BalooBhaina2-Regular.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+	<fontFamily name="OdiaRaghabaNormalSatin">
+		<normal><![CDATA[fonts/oriya/Odia Raghaba Normal.TTF]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+	<fontFamily name="Odia Raghaba">
+		<normal><![CDATA[fonts/oriya/Odia Raghaba Normal.TTF]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<fontFamily name="S06010F8PSatin">
+		<normal><![CDATA[fonts/oriya/S06010F8P.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<fontFamily name="NotoSansDevanagariSatin">
+		<normal><![CDATA[fonts/Marathi/NotoSansDevanagari.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+	<fontFamily name="LohitDevanagariRegularSatin">
+		<normal><![CDATA[fonts/Marathi/LohitDevanagariRegular.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<fontFamily name="SakalBharatiSatin">
+		<normal><![CDATA[fonts/Marathi/SakalBharati.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<fontFamily name="HindRegularSatin">
+		<normal><![CDATA[fonts/Marathi/Hind-Regular.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+	<fontFamily name="YashomudraSatin">
+		<normal><![CDATA[fonts/Marathi/Yashomudra-Normal.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+
+
+	<fontFamily name="NotoSansKannadaSatin">
+		<normal><![CDATA[fonts/Kannada/NotoSansKannada.ttf]]></normal>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts>
+		</exportFonts>
+
+	</fontFamily>
+
+</fontFamilies>
+
+
+
+		<!--to add MANGAL.ttf in eclipse/Jaspersoft studio Window>>Preferences>>search Font>>Add>>Give family name other than
+            MANGAL like give MangalOmer>> Browse your MANGAL>ttf file>Set PDF Encoding= Identity-H>>Select Embed this	Font in Pdf document
+            In Jasper change properties of static text in advance set pdf embedded= true , Pdf encoding =Identify-H Pdf font name MangalOmer
+            here in above give <fontFamily name="MangalOmer"> ie which u have set the font name in eclipse-
+
+            see jasperreports_extension.properties must this file name is defined there to be read by jvm
+
+
+            https://github.com/RajyaMarathiVikasSanstha/Yashomudra -->
+
+
